@@ -1,0 +1,24 @@
+{
+  "name": "bibi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-wiredep": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baxri/bibi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baxri/bibi/issues"
+  },
+  "homepage": "https://github.com/baxri/bibi#readme"
+}
