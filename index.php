@@ -29,6 +29,5 @@
 </head>
 <body>
     <div id="showdown"></div>
-    www.bibi.ge
 </body>
 </html>
