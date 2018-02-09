@@ -28,7 +28,6 @@
     </script>
 </head>
 <body>
-    <div id="showdown"></div>
-    www.bibi.ge
+    <div id="showdown"></div>   
 </body>
 </html>
