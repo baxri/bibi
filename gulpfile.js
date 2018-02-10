@@ -11,10 +11,10 @@ gulp.task('compile-less', function() {
 }); 
 /* Task to watch less changes */
 
-// gulp.task('watch-less', function() {  
-//   gulp.watch('./css/*.less' , ['compile-less']);
-// });
+gulp.task('watch-less', function() {  
+  gulp.watch('./css/*.less' , ['compile-less']);
+});
  
  
 /* Task when running `gulp` from terminal  'watch-less',*/
-gulp.task('default', [ 'compile-less']);
+gulp.task('default', [ 'compile-less', 'watch-less']);
