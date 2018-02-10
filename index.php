@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>www.BIBI.ge</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="bower_components/highlightjs/styles/darkula.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="bower_components/highlightjs/styles/default.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
 
     

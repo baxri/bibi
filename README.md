@@ -1,8 +1,3 @@
-
-# BIBI
-
-## About me
-
 ```JavaScript
 {
     "firstname" : "George",
