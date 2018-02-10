@@ -11,7 +11,7 @@
     <script src="bower_components/showdown/dist/showdown.js"></script>    
     <script src="bower_components/jquery/dist/jquery.js"></script>
     <script src="bower_components/highlightjs/highlight.pack.js"></script>   
-
+        
     <script type="text/javascript"> 
         $(document).ready(function(){
             $.get('README.md', function(markdown) {           
@@ -28,6 +28,7 @@
     </script>
 </head>
 <body>
-    <div id="showdown"></div>   
+    <div id="showdown"></div>  
+    
 </body>
 </html>
