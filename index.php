@@ -17,7 +17,7 @@
             $.get('README.md', function(markdown) {           
                 converter = new showdown.Converter();   
                 $("#showdown").html(converter.makeHtml(markdown));
-                // initialize code
+                
                 hljs.initHighlightingOnLoad();                
                 setTimeout(function(){
                     $("#showdown").fadeIn('slow');
