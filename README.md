@@ -1,6 +1,4 @@
 
-## 1) Jenksin Test BIBI.ge
-
 ```JavaScript
 let firstName = "Giorgi";
 let lastName = "Bibilashvili";
