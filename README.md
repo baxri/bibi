@@ -1,5 +1,5 @@
 
-## Jenksin Test BIBI.ge
+## 1) Jenksin Test BIBI.ge
 
 ```JavaScript
 let firstName = "Giorgi";
