@@ -1,6 +1,3 @@
-
-## Awesome Jenkins Server!
-
 ```JavaScript
 let firstName = "Giorgi";
 let lastName = "Bibilashvili";
