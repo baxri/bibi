@@ -17,7 +17,7 @@
         $(document).ready(function(){
             $.get('README.md', function(markdown) {  
                 
-                console.log("OK");
+                
 
                 converter = new showdown.Converter();   
                 $("#showdown").html(converter.makeHtml(markdown));
