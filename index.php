@@ -11,6 +11,7 @@
     <script src="bower_components/showdown/dist/showdown.js"></script>    
     <script src="bower_components/jquery/dist/jquery.js"></script>
     <script src="bower_components/highlightjs/highlight.pack.js"></script>   
+    <script>hljs.initHighlightingOnLoad();</script>
         
     <script type="text/javascript"> 
         $(document).ready(function(){
