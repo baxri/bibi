@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<hea
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>www.BIBI.ge</title>

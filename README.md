@@ -1,4 +1,3 @@
-
 ```JavaScript
 let firstName = "Giorgi";
 let lastName = "Bibilashvili";
