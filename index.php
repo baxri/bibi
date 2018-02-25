@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<hea
+<head>
 <meta charset="utf-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>www.BIBI.ge</title>
@@ -8,8 +8,9 @@
 
 <link rel="stylesheet" type="text/css" media="screen" href="css/main.css"/>
 
-<script src="bower_components/jquery/dist/jquery.js"></script>
-<script src="js/main.js"></script>
+<!--<script src="bower_components/jquery/dist/jquery.js"></script>-->
+<!--<script src="js/main.js"></script>-->
+<script src="js/bundle.js"></script>
 
 </head>
 <body>
