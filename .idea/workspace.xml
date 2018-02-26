@@ -2,9 +2,170 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e26e96f3-954d-4564-9561-3d89d58456ce" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/src/main.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/adfdsf-1491041818.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/amsterdami1492700968.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/amsterdami1502798869.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens15184606821.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens15184606822.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens15184606823.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518460705.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518460716.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518461184.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518548720.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518548747.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens15185487471.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens15185487472.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens15185487473.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens15185487474.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518549958.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518551642.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518551998.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552186.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552213.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552232.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552240.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552256.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552282.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552353.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552382.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552392.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552399.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552401.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552408.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/athens1518552471.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/barcelona1507815421.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/barselona15185525111.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/barselona15185525112.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/barselona1518552582.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/batumi1494239311.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/batumi1502799089.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/berlin1507815863.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/bolonia1510657357.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/bratislava1507900327.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/brussels1507898943.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/cologne1515581722.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/czech.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/erevani1492699971.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/erevani1502799621.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/error_log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/kazan1509457157.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/kiev1492700040.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/kievi1502799694.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/londoni1493018974.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/londoni1502798783.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/londoni15028073771.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/moskovi1492703735.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/moskovi1502787491.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/parizi1507804144.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/pragha1502799020.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/pragha1518552641.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/sanqt-peterburgi1492699933.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/sanqt-peterburgi1502799421.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1505143629.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1519541559.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1519541633.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1519542347.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1519544087.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/tel-aviv1492699768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/tel-aviv1502799298.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki1515745202.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki1518461232.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki1518461232.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki15184612321.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki15184612322.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki15184612323.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki1518553691.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki15185536911.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/vena1492699609.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/vena1502798953.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/werwerwer1518378734.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/werwerwer15183787341.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/werwerwer15183790231.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/werwerwer1518379047.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/destinations/werwerwer15183790471.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/js/bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/section/11491075795.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/11491075836.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/11492031494.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/12222.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/1512042701.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/1512042978.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/2 - Copy.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/9.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/about1519302736.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/acropolis1518461406.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/all-tariffs1512568302.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/ancient-greece1518461456.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/athens1518548955.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/aviaparki1492032883.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/aviaparki1492695014.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/axali-menius-seqcia1492010584.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/axali-qve-meniu-2-is-seqcia1492011198.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/axali-qve-menius-seqcia1492010618.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/bavshvi-tanmxlebi-piris-gareshe1492010033.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/bavshvi-tanmxlebi-piris-gareshe1492692894.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/biznes-klasis-meniu1492009990.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/biznes-klasis-meniu1492692176.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/bortgamcileblebi1492032967.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/business1512568174.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/central1518549046.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/chemi-javshani1512565319.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/choose-the-tariff-you-need1508411672.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/chveni-ekipazhi1512042295.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/compare-tariffs1508411597.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/dfsfsdf1519594398.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/dgheisatvis1490734070.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/ekonom-klasis-meniu1492010012.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/ekonom-klasis-meniu1492692297.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/embraer-1901505977898.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/flexible1512568161.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/herodes-atticus1518461525.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/kolokotronis1518461559.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/kompaniis-istoria111491073006.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/kompaniis-istoria1491845379.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/kveba-bortze1492009960.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/kveba-bortze1492692085.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/light1512568141.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/manage-your-orders1508503309.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/mfrinavebi1492034373.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/mobile-friendly1508429647.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/multilingual-intefrace1508411611.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/my-passenger1508412417.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/northeast1518549141.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/orsuli-mgzavrebistvis1492010056.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/orsuli-mgzavrebistvis1492693099.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/panathinaikos1518461635.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/pay-later1508413187.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/pendelikon1518549095.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/pilotebi1512042504.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/private-office1508399969.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/request-refund-directly-from-order1508570525.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/sdf1519594419.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/sdfsdf1519594485.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/sdfsdf1519594512.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/secured-payment1508412632.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/send-the-flight-tickets-to-the-email-you-need1508570729.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/sity-sights1519302136.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/southwest1518548980.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/standard1512568151.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/teqnikuri-uzrunvelyofa1491893492.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/title1518461368.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/traki1518383476.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/two-currencies-for-pay1508411628.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/section/unarshezghuduli-mgzavrebistvis1492010074.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,37 +182,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.less" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compile</find>
+      <find>app.js</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,6 +207,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/main.less" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/js/src/main.js" />
       </list>
     </option>
   </component>
@@ -75,6 +231,9 @@
         <tasks>
           <GulpTaskState>
             <task-name>compile-less</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>compile-webpack</task-name>
           </GulpTaskState>
           <GulpTaskState>
             <task-name>watch</task-name>
@@ -139,6 +298,21 @@
               <item name="bibi" type="b2602c69:ProjectViewProjectNode" />
               <item name="bibi" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="bibi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bibi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bibi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bibi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bibi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bibi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -174,6 +348,59 @@
       <arguments />
       <envs />
     </configuration>
+    <configuration name="compile-less" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>compile-less</task>
+      </tasks>
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="compile-webpack" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>compile-webpack</task>
+      </tasks>
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>watch</task>
+      </tasks>
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="npm.build" />
+      <item index="1" class="java.lang.String" itemvalue="Gulp.js.compile-less" />
+      <item index="2" class="java.lang.String" itemvalue="Gulp.js.compile-webpack" />
+      <item index="3" class="java.lang.String" itemvalue="Gulp.js.watch" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.watch" />
+        <item index="1" class="java.lang.String" itemvalue="Gulp.js.compile-webpack" />
+        <item index="2" class="java.lang.String" itemvalue="Gulp.js.compile-less" />
+        <item index="3" class="java.lang.String" itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -189,12 +416,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519630057531</updated>
       <workItem from="1519630058761" duration="1956000" />
-      <workItem from="1519637064353" duration="63000" />
+      <workItem from="1519637064353" duration="4509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2019000" />
+    <option name="totallyTimeSpent" value="6465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="0" />
@@ -202,13 +429,14 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16577825" sideWeight="0.50754714" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42391303" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16577825" sideWeight="0.3735849" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16577825" sideWeight="0.6264151" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16577825" sideWeight="0.25445706" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34565216" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2826087" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16577825" sideWeight="0.4348485" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16577825" sideWeight="0.5651515" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3652174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -219,7 +447,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -258,14 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -283,8 +502,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="256">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -292,7 +527,47 @@
     <entry file="file://$PROJECT_DIR$/css/main.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
           <folding />
         </state>
       </provider>
