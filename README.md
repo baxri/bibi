@@ -1,4 +1,4 @@
-```JavaScript
+```javascript
 let firstName = "Giorgi";
 let lastName = "Bibilashvili";
 let gitHub = "https://github.com/baxri";   
