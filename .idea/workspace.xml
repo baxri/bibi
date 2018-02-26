@@ -1,172 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e26e96f3-954d-4564-9561-3d89d58456ce" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/src/main.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/adfdsf-1491041818.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/amsterdami1492700968.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/amsterdami1502798869.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens15184606821.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens15184606822.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens15184606823.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518460705.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518460716.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518461184.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518548720.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518548747.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens15185487471.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens15185487472.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens15185487473.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens15185487474.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518549958.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518551642.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518551998.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552186.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552213.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552232.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552240.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552256.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552282.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552353.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552382.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552392.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552399.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552401.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552408.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/athens1518552471.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/barcelona1507815421.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/barselona15185525111.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/barselona15185525112.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/barselona1518552582.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/batumi1494239311.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/batumi1502799089.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/berlin1507815863.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/bolonia1510657357.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/bratislava1507900327.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/brussels1507898943.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/cologne1515581722.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/czech.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/erevani1492699971.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/erevani1502799621.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/error_log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/kazan1509457157.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/kiev1492700040.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/kievi1502799694.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/londoni1493018974.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/londoni1502798783.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/londoni15028073771.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/moskovi1492703735.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/moskovi1502787491.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/parizi1507804144.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/pragha1502799020.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/pragha1518552641.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/sanqt-peterburgi1492699933.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/sanqt-peterburgi1502799421.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1505143629.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1519541559.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1519541633.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1519542347.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/tbilisi1519544087.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/tel-aviv1492699768.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/tel-aviv1502799298.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki1515745202.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki1518461232.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki1518461232.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki15184612321.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki15184612322.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki15184612323.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki1518553691.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/thessaloniki15185536911.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/vena1492699609.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/vena1502798953.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/werwerwer1518378734.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/werwerwer15183787341.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/werwerwer15183790231.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/werwerwer1518379047.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/destinations/werwerwer15183790471.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/js/bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/section/11491075795.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/11491075836.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/11492031494.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/12222.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/1512042701.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/1512042978.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/2 - Copy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/9.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/about1519302736.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/acropolis1518461406.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/all-tariffs1512568302.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/ancient-greece1518461456.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/athens1518548955.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/aviaparki1492032883.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/aviaparki1492695014.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/axali-menius-seqcia1492010584.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/axali-qve-meniu-2-is-seqcia1492011198.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/axali-qve-menius-seqcia1492010618.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/bavshvi-tanmxlebi-piris-gareshe1492010033.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/bavshvi-tanmxlebi-piris-gareshe1492692894.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/biznes-klasis-meniu1492009990.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/biznes-klasis-meniu1492692176.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/bortgamcileblebi1492032967.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/business1512568174.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/central1518549046.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/chemi-javshani1512565319.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/choose-the-tariff-you-need1508411672.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/chveni-ekipazhi1512042295.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/compare-tariffs1508411597.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/dfsfsdf1519594398.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/dgheisatvis1490734070.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/ekonom-klasis-meniu1492010012.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/ekonom-klasis-meniu1492692297.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/embraer-1901505977898.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/flexible1512568161.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/herodes-atticus1518461525.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/kolokotronis1518461559.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/kompaniis-istoria111491073006.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/kompaniis-istoria1491845379.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/kveba-bortze1492009960.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/kveba-bortze1492692085.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/light1512568141.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/manage-your-orders1508503309.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/mfrinavebi1492034373.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/mobile-friendly1508429647.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/multilingual-intefrace1508411611.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/my-passenger1508412417.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/northeast1518549141.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/orsuli-mgzavrebistvis1492010056.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/orsuli-mgzavrebistvis1492693099.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/panathinaikos1518461635.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/pay-later1508413187.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/pendelikon1518549095.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/pilotebi1512042504.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/private-office1508399969.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/request-refund-directly-from-order1508570525.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/sdf1519594419.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/sdfsdf1519594485.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/sdfsdf1519594512.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/secured-payment1508412632.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/send-the-flight-tickets-to-the-email-you-need1508570729.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/sity-sights1519302136.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/southwest1518548980.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/standard1512568151.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/teqnikuri-uzrunvelyofa1491893492.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/title1518461368.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/traki1518383476.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/two-currencies-for-pay1508411628.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/section/unarshezghuduli-mgzavrebistvis1492010074.png" afterPath="" />
-    </list>
+    <list default="true" id="e26e96f3-954d-4564-9561-3d89d58456ce" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -416,12 +251,20 @@
       <option name="presentableId" value="Default" />
       <updated>1519630057531</updated>
       <workItem from="1519630058761" duration="1956000" />
-      <workItem from="1519637064353" duration="4509000" />
+      <workItem from="1519637064353" duration="4567000" />
     </task>
+    <task id="LOCAL-00001" summary="--">
+      <created>1519645723039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519645723040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6465000" />
+    <option name="totallyTimeSpent" value="6523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="0" />
@@ -455,6 +298,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="--" />
+    <option name="LAST_COMMIT_MESSAGE" value="--" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
