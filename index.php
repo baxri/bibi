@@ -7,9 +7,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" type="text/css" media="screen" href="css/main.css"/>
-
-<!--<script src="bower_components/jquery/dist/jquery.js"></script>-->
-<!--<script src="js/main.js"></script>-->
 <script src="js/bundle.js"></script>
 
 </head>
