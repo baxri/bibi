@@ -73,9 +73,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_jquery__);
 
 
-__WEBPACK_IMPORTED_MODULE_0_jquery___default()(document).ready(function(){
-    console.log("vaaaaa");
-});
+__webpack_require__(2);
+
+
+
 
 /***/ }),
 /* 1 */
@@ -10447,6 +10448,12 @@ if ( !noGlobal ) {
 return jQuery;
 } );
 
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports) {
+
+console.log('it Works!...');
 
 /***/ })
 /******/ ]);
