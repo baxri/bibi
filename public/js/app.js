@@ -10453,7 +10453,7 @@ return jQuery;
 /* 2 */
 /***/ (function(module, exports) {
 
-console.log('it Works!...');
+console.log('done');
 
 /***/ })
 /******/ ]);

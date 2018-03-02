@@ -1,4 +1,30 @@
 body {
-  background: white;
-  color: red;
-  padding: 0px; }
+  background: #2a2a2a;
+  font-family: 'Alef';
+  color: lightgray;
+  text-align: center; }
+
+.text {
+  position: relative;
+  top: 200px;
+  margin: 0 auto;
+  font-size: 50px; }
+
+.footer {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  text-align: right; }
+
+.footer h1 {
+  line-height: 10px; }
+
+.footer h3 {
+  line-height: 10px;
+  margin-bottom: 30px; }
+
+.footer p {
+  line-height: 10px; }
+
+.footer a {
+  color: lightgray; }
