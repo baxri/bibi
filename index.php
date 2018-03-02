@@ -12,7 +12,7 @@
 <body>
 <div class="text">
     <p>&lt;? If It Works, Don't Touch It ?&gt;</p>
-    <span>-- Giorgi Bibilashvili --</span>
+    <span>-- Programming rules --</span>
 </div>
 <div class="footer">
     <h1>George Bibilashvili</h1>
