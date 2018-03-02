@@ -1,14 +1,14 @@
 var gulp = require('gulp');
-var less = require('gulp-less');
+// var less = require('gulp-less');
 var sass = require('gulp-sass');
 var webpack = require('webpack-stream');
 
 /* Task to compile less */
-gulp.task('compile-less', function() {
-    gulp.src('./css/*.less')
-        .pipe(less())
-        .pipe(gulp.dest('./public/css/'));
-});
+// gulp.task('compile-less', function() {
+//     gulp.src('./css/*.less')
+//         .pipe(less())
+//         .pipe(gulp.dest('./public/css/'));
+// });
 
 /* Task to compile sass */
 gulp.task('compile-sass', function() {
@@ -31,7 +31,7 @@ gulp.task('compile-webpack', function() {
 gulp.task('watch', function() {
     gulp.watch([
         // Less files
-        './css/*.less',
+        // './css/*.less',
 
         // Less files
         './css/*.scss',
