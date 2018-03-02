@@ -10,7 +10,10 @@
     <script src="public/js/app.js"></script>
 </head>
 <body>
-<div class="text">&lt;?php ?&gt;</div>
+<div class="text">
+    <p>&lt;? If It Works, Don't Touch It ?&gt;</p>
+    <span>-- Giorgi Bibilashvili --</span>
+</div>
 <div class="footer">
     <h1>George Bibilashvili</h1>
     <h3>Web Developer</h3>

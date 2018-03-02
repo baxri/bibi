@@ -7,9 +7,17 @@ body{
 
 .text{
    position: relative;
-   top: 200px;
+   top: 150px;
    margin: 0 auto;
    font-size: 50px;
+   width: auto;
+   display: inline-block;
+}
+
+.text span{
+   font-size: 12pt;
+   float: right;
+   margin-top: -50px;
 }
 
 .footer{
