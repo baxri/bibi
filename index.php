@@ -8,6 +8,16 @@
     <link href='https://fonts.googleapis.com/css?family=Alef' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" media="screen" href="public/css/main.css"/>
     <script src="public/js/app.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115548985-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-115548985-1');
+    </script>
+
 </head>
 <body>
 <div class="text">

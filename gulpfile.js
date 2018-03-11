@@ -21,7 +21,7 @@ gulp.task('compile-webpack', function() {
     return gulp.src('js/bootstrap.js')
         .pipe(webpack({
             output: {
-                filename: 'app.js',
+                filename: 'app.js'
             }
         }))
         .pipe(gulp.dest('public/js/'));
