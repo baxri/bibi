@@ -40,7 +40,7 @@ gulp.task('watch', function() {
         'js/*',
         'js/src/*'
 
-    ] , ['compile-sass', 'compile-webpack']);
+    ] , ['compile-sass']);
 });
 
 /* Task when running `gulp` */
