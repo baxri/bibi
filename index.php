@@ -12,19 +12,20 @@
     <link href="public/css/main.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-<!--<nav class="white" role="navigation">-->
-<!--    <div class="nav-wrapper container">-->
+<nav class="white" role="navigation">
+    <div class="nav-wrapper container">
 <!--        <a id="logo-container" href="#" class="brand-logo">Logo</a>-->
-<!--        <ul class="right hide-on-med-and-down">-->
-<!--            <li><a href="#">Navbar Link</a></li>-->
-<!--        </ul>-->
-<!---->
+        <ul class="right hide-on-med-and-down">
+            <li><a href="javascrit:void(0)">Mob: +995 598 60 20 84</a></li>
+            <li><a href="javascrit:void(0)">Email: giorgi.bibiashvili89@gmail.com</a></li>
+        </ul>
+
 <!--        <ul id="nav-mobile" class="side-nav">-->
 <!--            <li><a href="#">Navbar Link</a></li>-->
 <!--        </ul>-->
 <!--        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>-->
-<!--    </div>-->
-<!--</nav>-->
+    </div>
+</nav>
 
 <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
