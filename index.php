@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <title>Parallax Template - Materialize</title>
+    <title>BIBI.ge - Web developer</title>
 
     <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -61,28 +61,47 @@
         <div class="row">
             <div class="col s12 m4">
                 <div class="icon-block">
-                    <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
-                    <h5 class="center">Speeds up development</h5>
+                    <h2 class="center brown-text"><i class="material-icons">http</i></h2>
+                    <h5 class="center">Server Side API</h5>
 
-                    <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+                    <p class="light">
+                        PHP (6 years, highly proficient), Node JS, Web Sockets,
+                        Frameworks: Laravel,  Symfony, CodeIgniter, Express.
+                        Cms: Joomla.
+                        Libraries: PHPUnit, Doctrine, Propel, etc; Social services integration: Facebook, Google+, Twitter;
+                        GraphQL (A query language for your API)
+                    </p>
                 </div>
             </div>
 
             <div class="col s12 m4">
                 <div class="icon-block">
                     <h2 class="center brown-text"><i class="material-icons">group</i></h2>
-                    <h5 class="center">User Experience Focused</h5>
+                    <h5 class="center">Client-Side Web</h5>
 
-                    <p class="light">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
+                    <p class="light">
+                        HTML/HTML5 CSS/CSS3.
+                        Preprocessor: Less, Sass.
+                        JavaScript, NodeJS, Webpack, Gulp, Bower, AJAX Technologies;
+                        Templates: Bootstrap, Materialize Frameworks.
+                        JS frameworks and libraries: jQuery, ReactJS, VueJS, AngularJS, MooTools;
+
+                    </p>
                 </div>
             </div>
 
             <div class="col s12 m4">
                 <div class="icon-block">
-                    <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
-                    <h5 class="center">Easy to work with</h5>
+                    <h2 class="center brown-text"><i class="material-icons">data_usage</i></h2>
+                    <h5 class="center">RDBMS</h5>
 
-                    <p class="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+                    <p class="light">
+                        MySQL (6 years, highly proficient), PostgreSQL, : designing databases, optimizing queries and schemas, stored objects (triggers, views);
+                        <br />NoSQL, MongoDB, Redis: Experience
+                        in designing NoSQL database applications with High Performance.
+
+
+                    </p>
                 </div>
             </div>
         </div>
@@ -95,7 +114,11 @@
     <div class="section no-pad-bot">
         <div class="container">
             <div class="row center">
-                <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+                <h5 class="header col s12 light">
+                    I help people do build businesses on the Internet
+                    <br />
+                    it's so fun and also I'm pretty good at it.
+                </h5>
             </div>
         </div>
     </div>
@@ -108,8 +131,17 @@
         <div class="row">
             <div class="col s12 center">
                 <h3><i class="mdi-content-send brown-text"></i></h3>
-                <h4>Contact Us</h4>
-                <p class="left-align light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+                <h4>About Me</h4>
+                <p class="left-align light">
+                    For the past 6 years I've been building server apis,
+                    client side webs, developing application databases, for business
+                    businesses, NGOs and just for humans :). I've done this as an employee,
+                    and a freelancer.
+                    I've also worked and working on some very secret projects and big brands.
+                    I'd tell you, but then I'd have to kill you...
+
+                    My favorite stacks are: Nginx, PHP7+, MySQL, Laravel, Bootstrap, VueJS.
+                </p>
             </div>
         </div>
 
@@ -121,7 +153,7 @@
     <div class="section no-pad-bot">
         <div class="container">
             <div class="row center">
-                <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+                <h5 class="header col s12 light">A modern technology solutions for your business</h5>
             </div>
         </div>
     </div>
@@ -132,34 +164,39 @@
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="white-text">Company Bio</h5>
-                <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
+                <h5 class="white-text">Personal Information</h5>
+                <p class="grey-text text-lighten-4">
+                   I am 28 years old, was born in Georgia/Tbilisi 1989. Ended public school in 2006 and
+                   started to study in Tbilisi State University on Finances.
+                   But then I guess that finances is not a thing that I was interesting in, I was needed something
+                   magical and stared codding... thats all, I am codding now :)
+                </p>
 
 
             </div>
             <div class="col l3 s12">
                 <h5 class="white-text">Settings</h5>
                 <ul>
-                    <li><a class="white-text" href="#!">Link 1</a></li>
-                    <li><a class="white-text" href="#!">Link 2</a></li>
-                    <li><a class="white-text" href="#!">Link 3</a></li>
-                    <li><a class="white-text" href="#!">Link 4</a></li>
+                    <li><a class="white-text" href="#!">Laravel</a></li>
+                    <li><a class="white-text" href="#!">PHP</a></li>
+                    <li><a class="white-text" href="#!">GraphQL</a></li>
+                    <li><a class="white-text" href="#!">NodeJS</a></li>
                 </ul>
             </div>
             <div class="col l3 s12">
                 <h5 class="white-text">Connect</h5>
                 <ul>
-                    <li><a class="white-text" href="#!">Link 1</a></li>
-                    <li><a class="white-text" href="#!">Link 2</a></li>
-                    <li><a class="white-text" href="#!">Link 3</a></li>
-                    <li><a class="white-text" href="#!">Link 4</a></li>
+                    <li><a class="white-text" href="#!">Javascript</a></li>
+                    <li><a class="white-text" href="#!">HTML</a></li>
+                    <li><a class="white-text" href="#!">CSS</a></li>
+                    <li><a class="white-text" href="#!">SASS/LESS</a></li>
                 </ul>
             </div>
         </div>
     </div>
     <div class="footer-copyright">
         <div class="container">
-            Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+            Made by <a class="brown-text text-lighten-3" href="https://www.linkedin.com/in/giorgi-bibilashvili-1b620761/">BIBI</a>
         </div>
     </div>
 </footer>
