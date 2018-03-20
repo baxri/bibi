@@ -115,7 +115,7 @@
         <div class="container">
             <div class="row center">
                 <h5 class="header col s12 light">
-                    I help people do build businesses on the Internet
+                    I help people to build businesses on the Internet
                     <br />
                     it's so fun and also I'm pretty good at it.
                 </h5>
