@@ -6,6 +6,7 @@
     <title>BIBI.ge - Web developer</title>
 
     <!-- CSS  -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="public/css/libs//materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link href="public/css/libs/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -44,7 +45,10 @@
                 </h5>
             </div>
             <div class="row center">
-                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Get Started</a>
+                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 "><span class="fa fa-facebook fa-lg"></span></a>
+                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1"><span class="fa fa-github fa-lg"></span></a>
+                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1"><span class="fa fa-twitter fa-lg"></span></a>
+                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1"><span class="fa fa-linkedin fa-lg"></span></a>
             </div>
             <br><br>
 
