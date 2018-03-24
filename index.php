@@ -45,10 +45,10 @@
                 </h5>
             </div>
             <div class="row center">
-                <a href="https://www.facebook.com/george.bibilashvili" target="_blank" id="download-button" class="btn-large waves-effect waves-light  blue darken-3"><span class="fa fa-facebook fa-lg"></span></a>
-                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light grey"><span class="fa fa-github fa-lg"></span></a>
-                <a href="https://twitter.com/WbibiG" target="_blank" id="download-button" class="btn-large waves-effect waves-light indigo accent-1"><span class="fa fa-twitter fa-lg"></span></a>
-                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1"><span class="fa fa-linkedin fa-lg"></span></a>
+                <a href="https://www.facebook.com/george.bibilashvili" target="_blank" id="download-button" class="btn-large waves-effect waves-light  light-blue darken-4"><span class="fa fa-facebook fa-lg"></span></a>
+                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light grey darken-2"><span class="fa fa-github fa-lg"></span></a>
+                <a href="https://twitter.com/WbibiG" target="_blank" id="download-button" class="btn-large waves-effect waves-light light-blue accent-3"><span class="fa fa-twitter fa-lg"></span></a>
+                <a href="https://www.linkedin.com/in/giorgi-bibilashvili-1b620761/" target="_blank" id="download-button" class="btn-large waves-effect waves-light  blue-grey darken-3"><span class="fa fa-linkedin fa-lg"></span></a>
             </div>
             <br><br>
 
