@@ -172,7 +172,7 @@
                 <p class="grey-text text-lighten-4">
                    I am 28 years old, was born in Georgia/Tbilisi 1989. Ended public school in 2006 and
                    started to study in Tbilisi State University on Finances.
-                   But then I guess that finances is not a thing that I was interesting in, I was needed something
+                   But then I guess that finances is not a thing that I was intersted in, I was needed something
                    magical and started codding... thats all, I am codding now :)
                 </p>
 
