@@ -16,7 +16,7 @@
 <nav class="white" role="navigation">
     <div class="nav-wrapper container">
         <a id="logo-container" href="#" class="brand-logo">
-            <img src="html.jpg" height="30">
+            <img src="html.jpg" height="25">
         </a>
         <ul class="right hide-on-med-and-down">
             <li><a href="javascrit:void(0)">Mob: +995 598 60 20 84</a></li>
