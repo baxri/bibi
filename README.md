@@ -6,5 +6,4 @@ businesses, NGOs and just for humans :). I've done this as an employee,
 and a freelancer.
 I've also worked and working on some very secret projects and big brands.
 I'd tell you, but then I'd have to kill you...
-
 My favorite stacks are: Nginx, PHP7+, MySQL, Laravel, Bootstrap, VueJS.
