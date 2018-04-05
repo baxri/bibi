@@ -120,14 +120,19 @@
         <div class="container">
             <div class="row center">
                 <h5 class="header col s12 light">
-                    I help people to build businesses on the Internet
+                    <!-- I help people to build businesses on the Internet -->
                     <br />
-                    it's so fun and also I'm pretty good at it.
+                    <!-- it's so fun and also I'm pretty good at it. -->
                 </h5>
             </div>
         </div>
     </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+    <div class="parallax">
+    <!-- <img src="background2.jpg" alt="Unsplashed background img 2"> -->
+    <video autoplay muted loop id="myVideo" style="margin-top: -200px;">
+        <source src="videos/gordon2.mp4" type="video/mp4">
+    </video>
+    </div>
 </div>
 
 <div class="container">
@@ -158,11 +163,16 @@
     <div class="section no-pad-bot">
         <div class="container">
             <div class="row center">
-                <h5 class="header col s12 light">A modern technology solutions for your business</h5>
+                <!-- <h5 class="header col s12 light">A modern technology solutions for your business</h5> -->
             </div>
         </div>
     </div>
-    <div class="parallax"><img src="background3.jpg" alt="Unsplashed background img 3"></div>
+    <div class="parallax">
+        <!-- <img src="background3.jpg" alt="Unsplashed background img 3"> -->
+        <video autoplay muted loop id="myVideo" style="margin-top: -170px;">
+            <source src="videos/gordon1.mp4" type="video/mp4">
+        </video>
+    </div>
 </div>
 
 <footer class="page-footer blue-grey darken-4">
