@@ -41,10 +41,11 @@
 
             <div class="row center" style="margin-top: -23px;">
                 <h5 class="header col s12 light">
-                    Software Developer and Software Architect
+                    Software Developer / Geek / Coder 
                 </h5>
+                <p>Favourite person <a target="_blank" style="color: white;" href="https://www.youtube.com/watch?v=CBi0HUmTrkI">Gordon Goose</a></p>
             </div>
-            <div class="row center">
+            <div class="row center" style="margin-top: -20px;">
                 <a href="https://www.facebook.com/george.bibilashvili" target="_blank" id="download-button" class="btn-large waves-effect waves-light  light-blue darken-4"><span class="fa fa-facebook fa-lg"></span></a>
                 <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light grey darken-2"><span class="fa fa-github fa-lg"></span></a>
                 <a href="https://twitter.com/WbibiG" target="_blank" id="download-button" class="btn-large waves-effect waves-light light-blue accent-3"><span class="fa fa-twitter fa-lg"></span></a>
@@ -164,7 +165,7 @@
     <div class="parallax"><img src="background3.jpg" alt="Unsplashed background img 3"></div>
 </div>
 
-<footer class="page-footer teal">
+<footer class="page-footer blue-grey darken-4">
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
@@ -172,7 +173,7 @@
                 <p class="grey-text text-lighten-4">
                    I am 28 years old, was born in Georgia/Tbilisi 1989. Ended public school in 2006 and
                    started to study in Tbilisi State University on Finances.
-                   But then I guess that finances is not a thing that I was intersted in, I was needed something
+                   But then I guess that finances was not a thing that I was intersted in, I was needed something
                    magical and started codding... thats all, I am codding now :)
                 </p>
 
