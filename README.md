@@ -1,5 +1,3 @@
-# BIBI
-
 For the past 6 years I've been building server apis,
 client side webs, developing application databases, for business
 businesses, NGOs and just for humans :). I've done this as an employee,
